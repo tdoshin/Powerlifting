@@ -1,0 +1,444 @@
+﻿Name,Day,Exercise,Sets,Reps,Weight,Category 
+Week1,Day 1,Weighted Chin ups,1,25,Bodyweight,Warm-Up
+Week1,Day 1,Box Jump,42799,3,Bodyweight,Warm-Up
+Week1,Day 1,Pause Squat,3,5,0,Warm-Up
+Week1,Day 1,Squat,5,6,0,Main Lift
+Week1,Day 1,Overload Squat,1,AMRAP,,Main Lift
+Week1,Day 1,Deadlift Variation,4,6,325,Main Lift
+Week1,Day 1,Dumbell Row,4,42894,45,Accessory Work
+Week1,Day 1,Bicep Curl Variation,4,0,30,Accessory Work
+Week1,Day 1,Grip Holds,3,45 sec.,Bodyweight ,Accessory Work
+Week1,Day 2,Closegrip Bench,3,5,0,Warm-Up
+Week1,Day 2,Abs Exercise,3,0,Bodyweight,Warm-Up
+Week1,Day 2,Bench Press,5,6,0,Main Lift
+Week1,Day 2,Overload Bench Press,1,,AMRAP,Main Lift
+Week1,Day 2,Dumbell Press Var.,4,8,160,Accessory Work
+Week1,Day 2,Military Press Var,5,8,160,Accessory Work
+Week1,Day 2,Tricep Ext. Variation,5,0,160,Accessory Work
+Week1,Day 2,Face Pulls,5,0,160,Accessory Work
+Week1,Day 2,Rotary Cuff Work,1,100,160,Accessory Work
+Week1,Day 2,Side Bends,3,0,45,Accessory Work
+Week1,Day 2,Weighted Ab Exercise,5,10,45,Accessory Work
+Week1,Day 3,Pull-Ups,1,50,Bodyweight,Warm-Up
+Week1,Day 3,Pause Squat,3,5,0,Warm-Up
+Week1,Day 3,Squat,5,10,0,Main Lift
+Week1,Day 3,Back Extensions,3,5,Bodyweight,Accessory Work
+Week1,Day 3,Leg Curl,3,0,,Accessory Work
+Week1,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week1,Day 3,Curl Variation,3,0,,Accessory Work
+Week1,Day 3,Weighted Plank,3,0,,Accessory Work
+Week1,Day 4,Shrug Variation,3,10,,Warm-Up
+Week1,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week1,Day 4,Ab Exercise,3,10,,Warm-Up
+Week1,Day 4,Bench Press,5,10,0,Main Lift
+Week1,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week1,Day 4,Military Press Variation,3,0,,Accessory Work
+Week1,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week1,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week1,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week1,Day 4,Lateral Raises,3,0,,Accessory Work
+Week1,Day 4,Abs Exercise,1,100,,Accessory Work
+Week2,Day 1,Weighted Chin ups,1,25,Bodyweight,Warm-Up
+Week2,Day 1,Box Jump,42799,3,Bodyweight,Warm-Up
+Week2,Day 1,Pause Squat,3,5,242.5,Warm-Up
+Week2,Day 1,Deadlift ,6,4,375,Main Lift
+Week2,Day 1,Overload ,1,AMRAP,,Main Lift
+Week2,Day 1,Squat Variation,4,6,315.25,Main Lift
+Week2,Day 1,Dumbell Row,4,42894,55,Accessory Work
+Week2,Day 1,Bicep Curl Variation,4,0,35,Accessory Work
+Week2,Day 1,Side Planks,3,45 sec.,Bodyweight,Accessory Work
+Week2,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week2,Day 2,Abs Exercise,3,0,Bodyweight,Warm-Up
+Week2,Day 2,Bench Press Variation,4,6,185.25,Main Lift
+Week2,Day 2,Overload,1,AMRAP,,Main Lift
+Week2,Day 2,Dumbell Press Var.,4,8,35,Accessory Work
+Week2,Day 2,Military Press Var,5,8,35,Accessory Work
+Week2,Day 2,Tricep Ext. Variation,5,0,100,Accessory Work
+Week2,Day 2,Face Pulls,5,0,100,Accessory Work
+Week2,Day 2,Rotary Cuff Work,1,100,,Accessory Work
+Week2,Day 2,Side Bends,3,0,Bodyweight,Accessory Work
+Week2,Day 2,Weighted Ab Exercise,5,10,45,Accessory Work
+Week2,Day 3,Pull-Ups,1,50,Bodyweight,Warm-Up
+Week2,Day 3,Pause Squat,3,5,,Warm-Up
+Week2,Day 3,Squat,5,10,266.75,Main Lift
+Week2,Day 3,Back Ext.,3,5,,Accessory Work
+Week2,Day 3,Leg Curl,3,0,,Accessory Work
+Week2,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week2,Day 3,Curl Variation,3,0,,Accessory Work
+Week2,Day 3,Weighted Plank,3,0,,Accessory Work
+Week2,Day 4,Shrug Variation,3,10,,Warm-Up
+Week2,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week2,Day 4,Ab Exercise,3,10,,Warm-Up
+Week2,Day 4,Bench Press,5,10,156.75,Main Lift
+Week2,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week2,Day 4,Military Press Variation,3,0,,Accessory Work
+Week2,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week2,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week2,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week2,Day 4,Lateral Raises,3,0,,Accessory Work
+Week2,Day 4,Abs Exercise,1,100,,Accessory Work
+Week3,Day 1,Weighted Chin ups,1,25,,Warm-Up
+Week3,Day 1,Box Jump,42799,3,,Warm-Up
+Week3,Day 1,Pause Squat,3,5,242.5,Warm-Up
+Week3,Day 1,Squat,6,4,363.75,Main Lift
+Week3,Day 1,Overload ,1,AMRAP,,Main Lift
+Week3,Day 1,Deadlift Variation,4,6,325,Main Lift
+Week3,Day 1,Dumbell Row,4,42894,,Accessory Work
+Week3,Day 1,Bicep Curl Variation,4,0,,Accessory Work
+Week3,Day 1,Grip Holds,3,45 sec.,,Accessory Work
+Week3,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week3,Day 2,Abs Exercise,3,0,,Warm-Up
+Week3,Day 2,Bench Press,6,4,213.75,Main Lift
+Week3,Day 2,Overload,1,AMRAP,,Main Lift
+Week3,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week3,Day 2,Military Press Var,5,8,,Accessory Work
+Week3,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week3,Day 2,Face Pulls,5,0,,Accessory Work
+Week3,Day 2,Rotary Cuff Work,1,100,,Accessory Work
+Week3,Day 2,Side Bends,3,0,,Accessory Work
+Week3,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
+Week3,Day 3,Pull-Ups,1,50,,Warm-Up
+Week3,Day 3,Pause Squat,3,5,,Warm-Up
+Week3,Day 3,Squat,4,10,291,Main Lift
+Week3,Day 3,Back Ext.,3,5,,Accessory Work
+Week3,Day 3,Leg Curl,3,0,,Accessory Work
+Week3,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week3,Day 3,Curl Variation,3,0,,Accessory Work
+Week3,Day 3,Weighted Plank,3,0,,Accessory Work
+Week3,Day 4,Shrug Variation,3,10,,Warm-Up
+Week3,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week3,Day 4,Ab Exercise,3,10,,Warm-Up
+Week3,Day 4,Bench Press,4,10,171,Main Lift
+Week3,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week3,Day 4,Military Press Variation,3,0,,Accessory Work
+Week3,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week3,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week3,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week3,Day 4,Lateral Raises,3,0,,Accessory Work
+Week3,Day 4,Abs Exercise,1,100,,Accessory Work
+Week4,Day 1,Weighted Chin ups,1,25,,Warm-Up
+Week4,Day 1,Box Jump,42799,3,,Warm-Up
+Week4,Day 1,Pause Squat,3,5,242.5,Warm-Up
+Week4,Day 1,Squat,4,0,339.5,Main Lift
+Week4,Day 1,Overload Squat,1,AMRAP,,Main Lift
+Week4,Day 1,Dumbell Row,4,42894,,Accessory Work
+Week4,Day 1,Bicep Curl Variation,4,0,,Accessory Work
+Week4,Day 1,Grip Holds,3,45 sec.,,Accessory Work
+Week4,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week4,Day 2,Abs Exercise,3,0,,Warm-Up
+Week4,Day 2,Bench Press,4,0,199.5,Main Lift
+Week4,Day 2,Overload,1,AMRAP,,Main Lift
+Week4,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week4,Day 2,Military Press Var,5,8,,Accessory Work
+Week4,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week4,Day 2,Face Pulls,5,0,,Accessory Work
+Week4,Day 2,Rotary Cuff Work,1,100,,Accessory Work
+Week4,Day 2,Side Bends,3,0,,Accessory Work
+Week4,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
+Week4,Day 3,Pull-Ups,,50,,Warm-Up
+Week4,Day 3,Pause Squat,3,5,,Warm-Up
+Week4,Day 3,Squat,4,10,291,Main Lift
+Week4,Day 3,Back Ext.,3,5,,Accessory Work
+Week4,Day 3,Leg Curl,3,0,,Accessory Work
+Week4,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week4,Day 3,Curl Variation,3,0,,Accessory Work
+Week4,Day 3,Weighted Plank,3,0,,Accessory Work
+Week4,Day 4,Shrug Variation,3,10,,Warm-Up
+Week4,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week4,Day 4,Ab Exercise,3,10,,Warm-Up
+Week4,Day 4,Bench Press,4,10,171,Main Lift
+Week4,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week4,Day 4,Military Press Variation,3,0,,Accessory Work
+Week4,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week4,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week4,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week4,Day 4,Lateral Raises,3,0,,Accessory Work
+Week4,Day 4,Abs Exercise,1,100,,Accessory Work
+Week5,Day 1,Weighted Chin ups,1,25,,Warm-Up
+Week5,Day 1,Box Jump,42799,3,,Warm-Up
+Week5,Day 1,Pause Squat,3,5,242.5,Warm-Up
+Week5,Day 1,Deadlift,7,3,400,Main Lift
+Week5,Day 1,Overload ,1,AMRAP,,Main Lift
+Week5,Day 1,Squat Variation,3,8,315.25,Main Lift
+Week5,Day 1,Dumbell Row,4,42894,,Accessory Work
+Week5,Day 1,Bicep Curl Variation,4,0,,Accessory Work
+Week5,Day 1,Grip Holds,3,45 sec.,,Accessory Work
+Week5,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week5,Day 2,Abs Exercise,3,0,,Warm-Up
+Week5,Day 2,Bench Press Variation,4,8,185.25,Main Lift
+Week5,Day 2,Overload,1,AMRAP,,Main Lift
+Week5,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week5,Day 2,Military Press Var,5,8,,Accessory Work
+Week5,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week5,Day 2,Face Pulls,5,0,,Accessory Work
+Week5,Day 2,Rotary Cuff Work,1,100,,Accessory Work
+Week5,Day 2,Side Bends,3,0,,Accessory Work
+Week5,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
+Week5,Day 3,Pull-Ups,1,50,,Warm-Up
+Week5,Day 3,Pause Squat,3,5,,Warm-Up
+Week5,Day 3,Squat,4,8,315.25,Main Lift
+Week5,Day 3,Back Ext.,3,5,,Accessory Work
+Week5,Day 3,Leg Curl,3,0,,Accessory Work
+Week5,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week5,Day 3,Curl Variation,3,0,,Accessory Work
+Week5,Day 3,Weighted Plank,3,0,,Accessory Work
+Week5,Day 4,Shrug Variation,3,10,,Warm-Up
+Week5,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week5,Day 4,Ab Exercise,3,10,,Warm-Up
+Week5,Day 4,Bench Press,4,8,185.25,Main Lift
+Week5,Day 4,Dumbell Press Variation,3,0,,Main Lift
+Week5,Day 4,Military Press Variation,3,0,,Accessory Work
+Week5,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week5,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week5,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week5,Day 4,Lateral Raises,3,0,,Accessory Work
+Week5,Day 4,Abs Exercise,,100,,Accessory Work
+Week6,Day 1,Weighted Chin ups,1,25,,Warm-Up
+Week6,Day 1,Box Jump,42799,3,,Warm-Up
+Week6,Day 1,Pause Squat,3,5,242.5,Warm-Up
+Week6,Day 1 ,Squat,8,3,388,Main Lift
+Week6,Day 1,Overload ,1,AMRAP,,Main Lift
+Week6,Day 1,Deadlift Variation,4,5,325,Main Lift
+Week6,Day 1,Dumbell Row,4,42894,,Accessory Work
+Week6,Day 1,Bicep Curl Variation,4,0,,Accessory Work
+Week6,Day 1,Grip Holds,3,45 sec.,,Accessory Work
+Week6,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week6,Day 2,Abs Exercise,3,0,,Warm-Up
+Week6,Day 2,Bench Press,8,3,228,Main Lift
+Week6,Day 2,Overload,1,AMRAP,,Main Lift
+Week6,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week6,Day 2,Military Press Var,5,8,,Accessory Work
+Week6,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week6,Day 2,Face Pulls,5,0,,Accessory Work
+Week6,Day 2,Rotary Cuff Work,,100,,Accessory Work
+Week6,Day 2,Side Bends,3,0,,Accessory Work
+Week6,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
+Week6,Day 3,Pull-Ups,,50,,Warm-Up
+Week6,Day 3,Pause Squat,3,5,,Warm-Up
+Week6,Day 3,Squat,4,8,315.25,Main Lift
+Week6,Day 3,Back Ext.,3,5,,Main Lift
+Week6,Day 3,Leg Curl,3,0,,Accessory Work
+Week6,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week6,Day 3,Curl Variation,3,0,,Accessory Work
+Week6,Day 3,Weighted Plank,3,0,,Accessory Work
+Week6,Day 4,Shrug Variation,3,10,,Warm-Up
+Week6,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week6,Day 4,Ab Exercise,3,10,,Warm-Up
+Week6,Day 4,Bench Press,4,8,185.25,Main Lift
+Week6,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week6,Day 4,Military Press Variation,3,0,,Accessory Work
+Week6,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week6,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week6,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week6,Day 4,Lateral Raises,3,0,,Accessory Work
+Week6,Day 4,Abs Exercise,,100,,Accessory Work
+Week7,Day 1,Weighted Chin ups,1,25,,Warm-Up
+Week7,Day 1,Box Jump,42799,3,,Warm-Up
+Week7,Day 1,Pause Squat,3,5,242.5,Warm-Up
+Week7,Day 1,Deadlift,8,2,412.25,Main Lift
+Week7,Day 1,Overload ,1,AMRAP,,Main Lift
+Week7,Day 1,Squat Variation,3,8,325,Main Lift
+Week7,Day 1,Dumbell Row,4,42894,,Accessory Work
+Week7,Day 1,Bicep Curl Variation,4,0,,Accessory Work
+Week7,Day 1,Grip Holds,3,45 sec.,,Accessory Work
+Week7,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week7,Day 2,Abs Exercise,3,0,,Warm-Up
+Week7,Day 2,Bench Press Variation,4,8,185.25,Main Lift
+Week7,Day 2,Overload,1,AMRAP,,Main Lift
+Week7,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week7,Day 2,Military Press Var,5,8,,Accessory Work
+Week7,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week7,Day 2,Face Pulls,5,0,,Accessory Work
+Week7,Day 2,Rotary Cuff Work,,100,,Accessory Work
+Week7,Day 2,Side Bends,3,0,,Accessory Work
+Week7,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
+Week7,Day 3,Pull-Ups,,50,,Warm-Up
+Week7,Day 3,Pause Squat,3,5,,Warm-Up
+Week7,Day 3,Squat,4,8,339.5,Main Lift
+Week7,Day 3,Back Ext.,3,5,,Main Lift
+Week7,Day 3,Leg Curl,3,0,,Accessory Work
+Week7,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week7,Day 3,Curl Variation,3,0,,Accessory Work
+Week7,Day 3,Weighted Plank,3,0,,Accessory Work
+Week7,Day 4,Shrug Variation,3,10,,Warm-Up
+Week7,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week7,Day 4,Ab Exercise,3,10,,Warm-Up
+Week7,Day 4,Bench Press,4,8,199.5,Main Lift
+Week7,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week7,Day 4,Military Press Variation,3,0,,Accessory Work
+Week7,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week7,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week7,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week7,Day 4,Lateral Raises,3,0,,Accessory Work
+Week7,Day 4,Abs Exercise,,100,,Accessory Work
+Week8,Day 1 ,Weighted Chin ups,1,25,,Warm-Up
+Week8,Day 1 ,Box Jump,42799,3,,Warm-Up
+Week8,Day 1 ,Pause Squat,3,5,242.5,Warm-Up
+Week8,Day 1 ,Squat,4,0,339.5,Main Lift 
+Week8,Day 1 ,Overload ,1,AMRAP,,Main Lift 
+Week8,Day 1 ,Dumbell Row,4,42894,,Accessory Work
+Week8,Day 1 ,Bicep Curl Variation,4,0,,Accessory Work
+Week8,Day 1 ,Grip Holds,3,45 sec.,,Accessory Work
+Week8,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week8,Day 2,Abs Exercise,3,0,,Warm-Up
+Week8,Day 2,Bench Press,4,0,199.5,Main Lift 
+Week8,Day 2,Overload,1,AMRAP,,Main Lift 
+Week8,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week8,Day 2,Military Press Var,5,8,,Accessory Work
+Week8,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week8,Day 2,Face Pulls,5,0,,Accessory Work
+Week8,Day 2,Rotary Cuff Work,,100,,Accessory Work
+Week8,Day 2,Side Bends,3,0,,Accessory Work
+Week8,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
+Week8,Day 3,Pull-Ups,1,50,,Warm Up
+Week8,Day 3,Pause Squat,3,5,,Warm Up
+Week8,Day 3,Bench Press,4,0,199.5,Main Lift 
+Week8,Day 3,Overload,1,AMRAP,,Main Lift 
+Week8,Day 3,Leg Curl,3,0,,Accessory Work
+Week8,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week8,Day 3,Curl Variation,3,0,,Accessory Work
+Week8,Day 3,Weighted Plank,3,0,,Accessory Work
+Week8,Day 4,Shrug Variation,3,10,,Warm-Up
+Week8,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week8,Day 4,Ab Exercise,3,10,,Warm-Up
+Week8,Day 4,Bench Press,5,8,199.5,Main Lift 
+Week8,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week8,Day 4,Military Press Variation,3,0,,Accessory Work
+Week8,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week8,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week8,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week8,Day 4,Lateral Raises,3,0,,Accessory Work
+Week8,Day 4,Abs Exercise,1,100,,Accessory Work
+Week9,Day 1,Weighted Chin ups,1,25,,Warm-Up
+Week9,Day 1,Box Jump,42799,3,,Warm-Up
+Week9,Day 1,Pause Squat,3,5,142.5,Warm-Up
+Week9,Day 1,Squat,8,2,412.25,MainLift
+Week9,Day 1,Overload ,1,AMRAP,,MainLift
+Week9,Day 1,Deadlift Variation,4,5,425,MainLift
+Week9,Day 1,Dumbell Row,4,42894,,Accessory Work
+Week9,Day 1,Bicep Curl Variation,4,0,,Accessory Work
+Week9,Day 1,Grip Holds,3,45 sec.,,Accessory Work
+Week9,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week9,Day 2,Abs Exercise,3,0,,Warm-Up
+Week9,Day 2,Bench Press,8,2,242.25,Main Lift
+Week9,Day 2,Overload,1,AMRAP,,Main Lift
+Week9,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week9,Day 2,Military Press Var,5,8,,Accessory Work
+Week9,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week9,Day 2,Face Pulls,5,0,,Accessory Work
+Week9,Day 2,Rotary Cuff Work,,100,,Accessory Work
+Week9,Day 2,Side Bends,3,0,,Accessory Work
+Week9,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
+Week9,Day 3,Pull-Ups,,50,,Warm-Up
+Week9,Day 3,Pause Squat,3,5,,Warm-Up
+Week9,Day 3,Squat,5,6,213.75,Main Lift
+Week9,Day 3,Back Ext.,3,5,,Accessory Work
+Week9,Day 3,Leg Curl,3,0,,Accessory Work
+Week9,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week9,Day 3,Curl Variation,3,0,,Accessory Work
+Week9,Day 3,Weighted Plank,3,0,,Accessory Work
+Week9,Day 4,Shrug Variation,3,10,,Warm-Up
+Week9,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week9,Day 4,Ab Exercise,3,10,,Warm-Up
+Week9,Day 4,Bench Press,5,6,213.75,Main Lift
+Week9,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week9,Day 4,Military Press Variation,3,0,,Accessory Work
+Week9,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week9,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week9,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week9,Day 4,Lateral Raises,3,0,,Accessory Work
+Week9,Day 4,Abs Exercise,,100,,Accessory Work
+Week10,Day 1 ,Weighted Chin ups,1,25,,Warm-Up
+Week10,Day 1 ,Box Jump,42799,3,,Warm-Up
+Week10,Day 1 ,Pause Squat,3,5,242.5,Warm-Up
+Week10,Day 1 ,Deadlift,10,1,450,Main Lift 
+Week10,Day 1 ,Overload ,1,AMRAP,,Main Lift 
+Week10,Day 1 ,Dumbell Row,4,42894,,Accessory Work
+Week10,Day 1 ,Bicep Curl Variation,4,0,,Accessory Work
+Week10,Day 1 ,Grip Holds,3,45 sec.,,Accessory Work
+Week10,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week10,Day 2,Abs Exercise,3,0,,Warm-Up
+Week10,Day 2,Bench Press Variation,4,8,185.25,Main Lift 
+Week10,Day 2,Overload,1,AMRAP,,Main Lift 
+Week10,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week10,Day 2,Military Press Var,5,8,,Accessory Work
+Week10,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week10,Day 2,Face Pulls,5,0,,Accessory Work
+Week10,Day 2,Rotary Cuff Work,,100,,Accessory Work
+Week10,Day 2,Side Bends,3,0,,Accessory Work
+Week10,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
+Week10,Day 3,Pull-Ups,1,50,,Warm-Up
+Week10,Day 3,Pause Squat,3,5,,Warm-Up
+Week10,Day 3,Squat,5,6,388,Main Lift 
+Week10,Day 3,Back Ext.,3,5,,Main Lift 
+Week10,Day 3,Leg Curl,3,0,,Accessory Work
+Week10,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week10,Day 3,Curl Variation,3,0,,Accessory Work
+Week10,Day 3,Weighted Plank,3,0,,Accessory Work
+Week10,Day 4,Shrug Variation,3,10,,Warm-Up
+Week10,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week10,Day 4,Ab Exercise,3,10,,Warm-Up
+Week10,Day 4,Bench Press,5,6,199.5,Main Lift 
+Week10,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week10,Day 4,Military Press Variation,3,0,,Accessory Work
+Week10,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week10,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week10,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week10,Day 4,Lateral Raises,3,0,,Accessory Work
+Week10,Day 4,Abs Exercise,1,100,,Accessory Work
+Week11,Day 1,Weighted Chin ups,1,25,,Warm-Up
+Week11,Day 1,Box Jump,42799,3,,Warm-Up
+Week11,Day 1,Pause Squat,3,5,242.5,Warm-Up
+Week11,Day 1,Squat,10,1,436.5,MainLift
+Week11,Day 1,Overload ,1,AMRAP,,MainLift
+Week11,Day 1,Deadlift Variation,4,5,350,MainLift
+Week11,Day 1,Dumbell Row,4,42894,,Accessory Work
+Week11,Day 1,Bicep Curl Variation,4,0,,Accessory Work
+Week11,Day 1,Grip Holds,3,45 sec.,,Accessory Work
+Week11,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week11,Day 2,Abs Exercise,3,0,,Warm-Up
+Week11,Day 2,Bench Press ,10,1,256.5,Main Lift
+Week11,Day 2,Overload,1,AMRAP,,Main Lift
+Week11,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week11,Day 2,Military Press Var,5,8,,Accessory Work
+Week11,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week11,Day 2,Face Pulls,5,0,,Accessory Work
+Week11,Day 2,Rotary Cuff Work,,100,,Accessory Work
+Week11,Day 2,Side Bends,3,0,,Accessory Work
+Week11,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
+Week11,Day 3,Pull-Ups,1,50,,Warm Up
+Week11,Day 3,Squat,5,6,339.5,Main Lift
+Week11,Day 3,Back Ext.,3,5,,Accessory Work
+Week11,Day 3,Leg Curl,3,0,,Accessory Work
+Week11,Day 3,Lat Pulldowns,5,0,,Accessory Work
+Week11,Day 3,Curl Variation,3,0,,Accessory Work
+Week11,Day 3,Weighted Plank,3,0,,Accessory Work
+Week11,Day 4,Shrug Variation,3,10,,Warm-Up
+Week11,Day 4,Closegrip Bench,3,42870,,Warm-Up
+Week11,Day 4,Ab Exercise,3,10,,Warm-Up
+Week11,Day 4,Bench Press,5,6,185.25,Main Lift
+Week11,Day 4,Dumbell Press Variation,3,0,,Accessory Work
+Week11,Day 4,Military Press Variation,3,0,,Accessory Work
+Week11,Day 4,Push-Ups,3,Failure,,Accessory Work
+Week11,Day 4,Triceps Ext Variation,3,0,,Accessory Work
+Week11,Day 4,Reverse Flyes,3,0,,Accessory Work
+Week11,Day 4,Lateral Raises,3,0,,Accessory Work
+Week11,Day 4,Abs Exercise,,100,,Accessory Work
+Week12,Day 1,Weighted Chin ups,1,25,,Warm-Up
+Week12,Day 1,Box Jump,42799,3,,Warm-Up
+Week12,Day 1,Pause Squat,3,5,242.5,Warm-Up
+Week12,Day 1,Squat,5,3,242.5,Main Lift
+Week12,Day 1,Overload ,1,AMRAP,,Main Lift
+Week12,Day 1,Deadlift ,5,3,250,Main Lift
+Week12,Day 1,Dumbell Row,4,42894,,Accessory Work
+Week12,Day 1,Bicep Curl Variation,4,0,,Accessory Work
+Week12,Day 1,Grip Holds,3,45 sec.,,Accessory Work
+Week12,Day 2,Closegrip Bench,3,5,128.25,Warm-Up
+Week12,Day 2,Abs Exercise,3,0,,Warm-Up
+Week12,Day 2,Dumbell Press Var.,4,8,,Accessory Work
+Week12,Day 2,Military Press Var,5,8,,Accessory Work
+Week12,Day 2,Tricep Ext. Variation,5,0,,Accessory Work
+Week12,Day 2,Face Pulls,5,0,,Accessory Work
+Week12,Day 2,Rotary Cuff Work,,100,,Accessory Work
+Week12,Day 2,Side Bends,3,0,,Accessory Work
+Week12,Day 2,Weighted Ab Exercise,5,10,,Accessory Work
